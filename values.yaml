@@ -1,6 +1,6 @@
 # Default values for mi-chart.
 
-replicaCount: 3
+replicaCount: 1
 
 image:
   repository: nginx
